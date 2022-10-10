@@ -1,10 +1,8 @@
 # CAF_Terraform_StepByStep
 
-R
-
 | **Script Name** | **Information** |
 | ------------- | ------------- |
-| CAF Step by Step portable  | Portable Application for CAF Configuration with Terraform. Download and Unzip the package. Run the App with Admin Rights |
+| CAF_stepBystep.zip  | Portable Application for CAF Configuration with Terraform. Download and Unzip the package. Run the App with Admin Rights |
 
 # How it works
 
