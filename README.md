@@ -7,7 +7,7 @@
 # How it works
 
 - Download and Install Visual Studio Code if necessary
-- Download and Git Bash if necessary
+- Download Git Bash if necessary
 - Download and Install Azure Cli if necessary
 - Download and Configure Terraform.
     - Terraform.exe will be placed in %SystemRoot% folder in order to work with Powershell and Git Bash. If you want to place the executable in another folder please click to "No" when asked. In this case you must put manually the folder in your Environment Variable
